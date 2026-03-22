@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+
+N:Li;John;;;
+FN:John Li
+
+ORG:ABC Renovation
+TITLE:Project Manager
+
+TEL;TYPE=CELL:+14161234567
+
+EMAIL:john@abcreno.ca
+
+URL:https://abcreno.ca
+
+ADR;TYPE=WORK:;;Toronto, ON;Ontario;;Canada
+
+END:VCARD
